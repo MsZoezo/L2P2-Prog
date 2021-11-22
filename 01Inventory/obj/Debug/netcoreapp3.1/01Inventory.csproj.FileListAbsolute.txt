@@ -1,0 +1,14 @@
+C:\Users\Zoey\L2P2-Prog\01Inventory\bin\Debug\netcoreapp3.1\01Inventory.exe
+C:\Users\Zoey\L2P2-Prog\01Inventory\bin\Debug\netcoreapp3.1\01Inventory.deps.json
+C:\Users\Zoey\L2P2-Prog\01Inventory\bin\Debug\netcoreapp3.1\01Inventory.runtimeconfig.json
+C:\Users\Zoey\L2P2-Prog\01Inventory\bin\Debug\netcoreapp3.1\01Inventory.runtimeconfig.dev.json
+C:\Users\Zoey\L2P2-Prog\01Inventory\bin\Debug\netcoreapp3.1\01Inventory.dll
+C:\Users\Zoey\L2P2-Prog\01Inventory\bin\Debug\netcoreapp3.1\01Inventory.pdb
+C:\Users\Zoey\L2P2-Prog\01Inventory\obj\Debug\netcoreapp3.1\01Inventory.csproj.AssemblyReference.cache
+C:\Users\Zoey\L2P2-Prog\01Inventory\obj\Debug\netcoreapp3.1\01Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zoey\L2P2-Prog\01Inventory\obj\Debug\netcoreapp3.1\01Inventory.AssemblyInfoInputs.cache
+C:\Users\Zoey\L2P2-Prog\01Inventory\obj\Debug\netcoreapp3.1\01Inventory.AssemblyInfo.cs
+C:\Users\Zoey\L2P2-Prog\01Inventory\obj\Debug\netcoreapp3.1\01Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Zoey\L2P2-Prog\01Inventory\obj\Debug\netcoreapp3.1\01Inventory.dll
+C:\Users\Zoey\L2P2-Prog\01Inventory\obj\Debug\netcoreapp3.1\01Inventory.pdb
+C:\Users\Zoey\L2P2-Prog\01Inventory\obj\Debug\netcoreapp3.1\01Inventory.genruntimeconfig.cache
