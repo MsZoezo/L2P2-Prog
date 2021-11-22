@@ -3,15 +3,7 @@ using System.Collections.Generic;
 
 namespace _01Inventory
 {
-    class Item
-    {
-        public string name;
 
-        public Item(string name)
-        {
-            this.name = name;
-        }
-    }
 
     class Inventory
     {
